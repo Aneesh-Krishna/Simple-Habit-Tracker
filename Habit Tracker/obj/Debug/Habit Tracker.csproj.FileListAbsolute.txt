@@ -1,0 +1,10 @@
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\bin\Debug\Habit Tracker.exe.config
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\bin\Debug\Habit Tracker.exe
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\bin\Debug\Habit Tracker.pdb
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.csproj.AssemblyReference.cache
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit_Tracker.Form1.resources
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit_Tracker.Properties.Resources.resources
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.csproj.GenerateResource.cache
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.csproj.CoreCompileInputs.cache
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.exe
+C:\Users\aneea\source\repos\Habit Tracker\Habit Tracker\obj\Debug\Habit Tracker.pdb
